@@ -1,0 +1,21 @@
+{
+  "name": "watermelon-dark",
+  "displayName": "Watermelon Dark",
+  "description": "Watermelon dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Watermelon Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Watermelon Dark-color-theme.json"
+      }
+    ]
+  }
+}
